@@ -1,0 +1,44 @@
+_repo: L-Anti-Justineou-Les-Delices-de-l-amour_26804
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Restif de La Bretonne
+    aliases:
+    - Rétif de La Bretonne, Nicolas Edme
+    - Retif de La Bretonne, Nicolas Edme
+    - Bretonne, Restif de la
+    - Bretonne, Restif de La
+    birthdate: 1734
+    deathdate: 1806
+    gutenberg_agent_id: '32250'
+    url: http://www.gutenberg.org/2009/agents/32250
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Nicolas-Edme_R%C3%A9tif
+    - http://fr.wikipedia.org/wiki/Nicolas_Edme_Restif_de_La_Bretonne
+description: "Anti-Justine is a French pornographic novel by Nicolas-Edme Rétif (also\
+  \ known as Rétif de la Bretonne; 1734-1806) published in 1798. It was written to\
+  \ oppose the political philosophy of the Marquis de Sade as expressed in Justine.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26804'
+  wikidata: Q3202134
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic stories, French'
+- !lcsh 'French fiction -- 18th century'
+- !lcc 'PQ'
+title: L'Anti-Justine; ou, Les Delices de l'amour
+url: http://www.gutenberg.org/ebooks/26804
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27Anti-Justine
+- https://en.wikipedia.org/wiki/Anti-Justine
+- https://fr.wikisource.org/wiki/L%E2%80%99Anti-Justine
